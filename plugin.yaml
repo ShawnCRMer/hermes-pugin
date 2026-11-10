@@ -1,0 +1,10 @@
+id: pugin
+name: pugin
+version: 4.4.2
+entrypoint: __init__.py
+apiVersion: 3
+requires_hermes: ">=0.23.0"
+author: "Shawn Cleta"
+description: "A dancing companion for Hermes Desktop that beams in while the chat you're viewing is working, including its subagents, background processes and Kanban tasks, and beams out when it's all done."
+provides_tools: []
+provides_hooks: []

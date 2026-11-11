@@ -4,7 +4,7 @@
 
 ![PUGin beams down when the chat starts working and dances until it's done](docs/pugin-demo.gif)
 
-▶ **[Watch the 46-second demo video](https://github.com/ShawnCRMer/hermes-pugin/releases/download/v4.4.2/PUGin-demo.mp4)**
+▶ **[Watch the 45-second demo video](https://github.com/ShawnCRMer/hermes-pugin/releases/download/v4.4.2/PUGin-demo.mp4)**
 
 ## Why
 
